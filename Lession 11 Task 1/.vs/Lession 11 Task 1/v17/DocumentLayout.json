@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{075AA47F-C82E-4D61-B5FC-DD7FAF953F92}|Lession 11 Task 1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\Lession 11 Task 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{075AA47F-C82E-4D61-B5FC-DD7FAF953F92}|Lession 11 Task 1.vcxproj|solutionrelative:Lession 11 Task 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91148394-B2BE-4861-8417-E2775C5E170D}|StaticLib1\\StaticLib1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\StaticLib1\\StaticLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91148394-B2BE-4861-8417-E2775C5E170D}|StaticLib1\\StaticLib1.vcxproj|solutionrelative:StaticLib1\\StaticLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91148394-B2BE-4861-8417-E2775C5E170D}|StaticLib1\\StaticLib1.vcxproj|C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\StaticLib1\\StaticLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91148394-B2BE-4861-8417-E2775C5E170D}|StaticLib1\\StaticLib1.vcxproj|solutionrelative:StaticLib1\\StaticLib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticLib.cpp",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\StaticLib1\\StaticLib.cpp",
+              "RelativeDocumentMoniker": "StaticLib1\\StaticLib.cpp",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\StaticLib1\\StaticLib.cpp",
+              "RelativeToolTip": "StaticLib1\\StaticLib.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T02:28:40.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaticLib.h",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\StaticLib1\\StaticLib.h",
+              "RelativeDocumentMoniker": "StaticLib1\\StaticLib.h",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\StaticLib1\\StaticLib.h",
+              "RelativeToolTip": "StaticLib1\\StaticLib.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T02:28:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lession 11 Task 1.cpp",
+              "DocumentMoniker": "C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\Lession 11 Task 1.cpp",
+              "RelativeDocumentMoniker": "Lession 11 Task 1.cpp",
+              "ToolTip": "C:\\Users\\italy\\source\\repos\\Lession 11 Task 1\\Lession 11 Task 1.cpp",
+              "RelativeToolTip": "Lession 11 Task 1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T02:15:33.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

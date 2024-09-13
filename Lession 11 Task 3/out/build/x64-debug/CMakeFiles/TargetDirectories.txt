@@ -1,0 +1,4 @@
+C:/Users/italy/source/repos/Lession 11 Task 3/out/build/x64-debug/CMakeFiles/CMakeTarget.dir
+C:/Users/italy/source/repos/Lession 11 Task 3/out/build/x64-debug/CMakeFiles/Dynamic.dir
+C:/Users/italy/source/repos/Lession 11 Task 3/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/italy/source/repos/Lession 11 Task 3/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
