@@ -1,4 +1,0 @@
-﻿  Dynamic.cpp
-C:\Users\italy\source\repos\Lession 11 Task 2\Dll7\Dynamic.h(20,10): warning C4251: "Dynamic::Leaver::Name": "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами "Dynamic::Leaver"
-C:\Users\italy\source\repos\Lession 11 Task 2\Dll7\Dynamic.cpp(8,24): warning C4273: Dynamic::Leaver::leave: несовместимое связывание dll
-  Dll7.vcxproj -> C:\Users\italy\source\repos\Lession 11 Task 2\x64\Debug\Dll7.dll
